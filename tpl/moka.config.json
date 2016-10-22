@@ -1,0 +1,19 @@
+{
+    "theme": "moka",
+    "title": "pengpeng's Blog",
+    "favicon": "/head.jpg",
+    "author": "pengpeng",
+    "description": "pengpeng's Blog",
+    "siteName": "site",
+
+    "deploy": {
+        "type": "git",
+        "url": "https://github.com/PengJiaYing/pengpeng.github.io.git",
+        "branch": "master"
+    },
+    "bak": {
+        "type": "git",
+        "url": "https://github.com/moyuyc/blogsource.git",
+        "branch": "master"
+    }
+}
